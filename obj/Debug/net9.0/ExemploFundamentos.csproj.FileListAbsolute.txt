@@ -1,0 +1,4 @@
+C:\Users\glayd\Desktop\Projeto.py\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glayd\Desktop\Projeto.py\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\glayd\Desktop\Projeto.py\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\glayd\Desktop\Projeto.py\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
